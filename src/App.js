@@ -22,11 +22,11 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://saigonnfts.com"
+          href="https://first-app.songonha.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Saigon NFTs Dot Com
+         First App Songonha Dot Com
         </a>
       </header>
     </div>
